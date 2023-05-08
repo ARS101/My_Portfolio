@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+p {
+  font-family: Arial;
+  margin: 0;
+}
+
+button {
+  border: none;
+  border-radius: 20px;
+  padding: 3px 10px;
+}

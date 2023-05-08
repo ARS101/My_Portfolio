@@ -1,0 +1,30 @@
+.summary {
+  margin: 25px 50px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.text {
+
+}
+
+.software-stack {
+  margin-left: 20px;
+}
+
+.software-stack-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.technology {
+  display: flex;
+  align-items: center;
+}
+
+.tech-icons {
+  width: 30px;
+}
