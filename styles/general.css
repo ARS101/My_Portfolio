@@ -3,11 +3,13 @@ body {
 }
 
 p {
+  font-size: 18px;
   font-family: Arial;
   margin: 0;
 }
 
 button {
+  font-size: 17px;
   border: none;
   border-radius: 20px;
   padding: 3px 10px;
