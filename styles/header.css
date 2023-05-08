@@ -47,4 +47,15 @@
   color: white;
   margin-right: 10px;
   cursor: pointer;
+  transition: width 0.3s,
+    margin-left 0.3s,
+    filter 0.3s;
+}
+
+.email-icon:hover,
+.telegram-icon:hover,
+.github-icon:hover {
+  width: 31px;
+  margin-left: -6px;
+  filter: invert(47%) sepia(73%) saturate(916%) hue-rotate(189deg) brightness(97%) contrast(97%);
 }
